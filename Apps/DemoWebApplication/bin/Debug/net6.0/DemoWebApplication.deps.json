@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoWebApplication/1.0.0": {
+        "dependencies": {
+          "HttpServer.HTTP": "1.0.0"
+        },
+        "runtime": {
+          "DemoWebApplication.dll": {}
+        }
+      },
+      "HttpServer.HTTP/1.0.0": {
+        "runtime": {
+          "HttpServer.HTTP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoWebApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpServer.HTTP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Blago\source\repos\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.HTTP.deps.json
+C:\Users\Blago\source\repos\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.HTTP.dll
+C:\Users\Blago\source\repos\HttpServer\HttpServer\bin\Debug\net6.0\HttpServer.HTTP.pdb
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.AssemblyInfoInputs.cache
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.AssemblyInfo.cs
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.dll
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.HTTP.dll
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.pdb
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.HTTP.dll
