@@ -10,5 +10,6 @@ namespace HttpServer.HTTP
     {
         public const int DEFAULT_BUFFER_SIZE = 4096;
         public const string NEW_LINE = "\r\n";
+        public const string COOKIE = "Cookie";
     }
 }

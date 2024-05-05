@@ -9,3 +9,4 @@ C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HT
 C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\refint\HttpServer.HTTP.dll
 C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.pdb
 C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\ref\HttpServer.HTTP.dll
+C:\Users\Blago\source\repos\HttpServer\HttpServer\obj\Debug\net6.0\HttpServer.HTTP.sourcelink.json

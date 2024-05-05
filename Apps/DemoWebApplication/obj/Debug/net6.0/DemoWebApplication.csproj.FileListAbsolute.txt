@@ -16,3 +16,4 @@ C:\Users\Blago\source\repos\HttpServer\Apps\DemoWebApplication\obj\Debug\net6.0\
 C:\Users\Blago\source\repos\HttpServer\Apps\DemoWebApplication\obj\Debug\net6.0\DemoWebApplication.pdb
 C:\Users\Blago\source\repos\HttpServer\Apps\DemoWebApplication\obj\Debug\net6.0\DemoWebApplication.genruntimeconfig.cache
 C:\Users\Blago\source\repos\HttpServer\Apps\DemoWebApplication\obj\Debug\net6.0\ref\DemoWebApplication.dll
+C:\Users\Blago\source\repos\HttpServer\Apps\DemoWebApplication\obj\Debug\net6.0\DemoWebApplication.sourcelink.json

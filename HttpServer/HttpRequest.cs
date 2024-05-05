@@ -12,7 +12,7 @@ namespace WebServer.HTTP
         public HttpRequest()
         {
             this.Headers = new List<Header>();
-            this.Cookies = new List<Cookie>();           
+            this.Cookies = new List<Cookie>();
         }
 
         public string? MethodType { get; set; }
@@ -56,9 +56,25 @@ namespace WebServer.HTTP
                     sb.AppendLine(line).ToString();
                 }
             }
+
+            if (request.Headers.Any(x => x.Key == HttpConstants.COOKIE))
+            {
+                GetCookiesFromHeaders(request);
+            }
             request.Body = sb.ToString();
 
             return request;
+        }
+
+        private static void GetCookiesFromHeaders(HttpRequest request)
+        {
+            var cookiesAsString = request?.Headers?.FirstOrDefault(x => x.Key == HttpConstants.COOKIE)?.Value;
+            var cookiesList = cookiesAsString?.Split("; ", StringSplitOptions.RemoveEmptyEntries);
+
+            foreach (var item in cookiesList)
+            {            
+                request?.Cookies?.Add(Cookie.Parse(item));
+            }
         }
     }
 }
